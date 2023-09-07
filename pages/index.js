@@ -19,6 +19,7 @@ export default function Home() {
         <p>
           (For business inquiries, contact me on{' '}
           <a href="https://www.facebook.com/WilliamElite1" target="_blank">Facebook, </a>
+          <a href="https://www.instagram.com/william_elite1/?theme=dark" target="_blank">Instagram & </a>
           <a href="https://twitter.com/RT_Moriarty" target="_blank">Twitter</a>.)
         </p>
 
